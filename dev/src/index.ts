@@ -1,4 +1,4 @@
-import { Slider, FormValidation } from 'functionalities';
+import { Slider, FormValidation } from 'packageName';
 
 new Slider({
     
